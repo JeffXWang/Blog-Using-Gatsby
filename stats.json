@@ -4,6 +4,10 @@
       "path---my-second-post-936ee2c5cfe220521fb7.js",
       "path---my-second-post-936ee2c5cfe220521fb7.js.map"
     ],
+    "path---test-post": [
+      "path---test-post-6e1ae7fd1d5398d83910.js",
+      "path---test-post-6e1ae7fd1d5398d83910.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-334e7d509d7906a81642.js",
       "component---src-pages-index-js-334e7d509d7906a81642.js.map"
@@ -25,12 +29,12 @@
       "component---src-layouts-index-js-92503922febc2dec03e4.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-3558a1363652e1b5fe34.js",
-      "path---hi-folks-3558a1363652e1b5fe34.js.map"
+      "path---hi-folks-b5f71535d898402ce850.js",
+      "path---hi-folks-b5f71535d898402ce850.js.map"
     ],
     "path---index": [
-      "path---index-fb7920b02446c87b3d44.js",
-      "path---index-fb7920b02446c87b3d44.js.map"
+      "path---index-483397389ad6a06ab960.js",
+      "path---index-483397389ad6a06ab960.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-b37819fa283cc157a474.js",
@@ -55,9 +59,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7198987b9482f5696f44.js",
+      "app-b643808deac95068eb25.js",
       "build-js-styles.css",
-      "app-7198987b9482f5696f44.js.map",
+      "app-b643808deac95068eb25.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
